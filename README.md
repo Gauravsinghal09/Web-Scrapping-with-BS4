@@ -1,2 +1,2 @@
 # Web-Scrapping-with-BS4
-Scraped jobs description from Times Job website.
+Scrapes jobs description from Times Job website.
